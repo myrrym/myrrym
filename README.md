@@ -39,7 +39,7 @@ AI            Claude API · RAG · vector similarity (hand-rolled) · Valhalla (
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miriam--ho-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/miriam-ho-67b3711b1)
 [![Sanctuary](https://img.shields.io/badge/Sanctuary-getsanctuary.app-2d9e4f?style=flat)](https://getsanctuary.app)
-[![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws)](https://www.credly.com/badges/c53a20dd-a0e4-45d3-8d8f-03b3a647cb1c)
+[![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat&logo=amazonaws)](https://www.credly.com/badges/c53a20dd-a0e4-45d3-8d8f-03b3a647fb1c)
 
 ---
 
