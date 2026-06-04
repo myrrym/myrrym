@@ -49,13 +49,6 @@
 
 ---
 
-### github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myrrym&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d4668a&icon_color=e8a0b4&text_color=f5d0de&count_private=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myrrym&hide_border=true&bg_color=0d1117&title_color=d4668a&text_color=f5d0de&layout=compact&count_private=true&cache_seconds=1800&langs_count=6" height="165" />
-</div>
-
 ---
 
 ### elsewhere
