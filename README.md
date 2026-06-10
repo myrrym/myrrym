@@ -54,7 +54,8 @@
 ### elsewhere
 
 <div align="center">
-
+  
+[![CV](https://img.shields.io/badge/CV-Download-d4668a?style=plastic&logo=adobeacrobatreader&logoColor=white)](https://github.com/myrrym/myrrym/raw/main/Miriam_Ho_Ai_Ning_CV_2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miriam--ho-d4668a?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-ho-67b3711b1)
 [![Sanctuary](https://img.shields.io/badge/Sanctuary-getsanctuary.app-2d9e4f?style=plastic)](https://getsanctuary.app)
 [![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=plastic&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c53a20dd-a0e4-45d3-8d8f-03b3a647fb1c)
