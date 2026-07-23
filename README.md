@@ -41,7 +41,7 @@
 ### a few things i've shipped
 
 - 🌸 AI microservice handling millions of property searches across IQI Global & Juwai.asia
-- 🌸 Sanctuary — AI journaling app in closed beta with real users
+- 🌸 sanctuary — AI journaling app in closed beta with real users
 - 🌸 Real-time streaming platforms for Maxis, Digi, TM One
 - 🌸 Self-hosted isochrone engine for commute-time property search
 - 🌸 AI podcast generator (PDF → two-host audio via Claude + ElevenLabs)
