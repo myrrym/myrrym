@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=d4668a&center=true&vCenter=true&width=600&lines=hey%2C+i'm+miriam+%F0%9F%8C%B8;senior-software+engineer+%C2%B7+malaysia;building+AI+systems+that+ship;sole+owner+of+property-ai+%C2%B7+7M%2B+listings;solo-building+sanctuary+app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=d4668a&center=true&vCenter=true&width=600&lines=hey%2C+i'm+miriam+%F0%9F%8C%B8;senior+software+engineer+%C2%B7+malaysia;building+AI+systems+that+ship;sole+owner+of+property-ai+%C2%B7+7M%2B+listings;founder+of+realty+check+%C2%B7+realtycheck.my" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ### what i'm working on
 
-**[sanctuary](https://getsanctuary.app)** — an AI-powered journaling app I'm building independently alongside my day job. Flutter on mobile, Next.js for web, Supabase for backend, Claude API for the AI companion. Currently in closed beta.
+**[realty check](https://realtycheck.my)** - deal transparency for Malaysian property. turns any listing into a trilingual (EN/BM/中文) client-ready pricing report in about a second, from 490,000+ registered NAPIC transactions across all 16 states. a deterministic comp engine does the numbers; the LLM only phrases them. won the IQI AI Hackathon 2026, public launch 14 days later. FastAPI, solo-built and operated alongside my day job.
 
 **property-ai** @ [IQI Global](https://iqiglobal.com) — a cross-platform AI microservice I own end-to-end, serving 7M+ property listings across 111 countries. Includes a RAG chatbot built with hand-rolled vector similarity in PHP (no managed AI infra), a self-hosted geospatial routing engine on AWS, and multi-domain API integrations.
 
@@ -23,6 +23,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
@@ -40,12 +41,14 @@
 
 ### a few things i've shipped
 
+- 🌸 realty check - deal-transparency platform over 490,000+ NAPIC transactions, winner of the IQI AI Hackathon 2026
 - 🌸 AI microservice handling millions of property searches across IQI Global & Juwai.asia
-- 🌸 sanctuary — AI journaling app in closed beta with real users
-- 🌸 Real-time streaming platforms for Maxis, Digi, TM One
-- 🌸 Self-hosted isochrone engine for commute-time property search
-- 🌸 AI podcast generator (PDF → two-host audio via Claude + ElevenLabs)
-- 🌸 Disaster recovery implementation for Affin Bank
+- 🌸 self-hosted isochrone engine for commute-time property search
+- 🌸 AI code review service on the Claude API, rolling out across the org's repos against a measured baseline
+- 🌸 [8-station ESP32 token-counting installation](https://github.com/myrrym/esp32-token-counter), four days unattended at a live brand event
+- 🌸 sanctuary - AI journaling app shipped to closed beta on Google Play
+- 🌸 real-time streaming platforms for Maxis, Digi, TM One
+- 🌸 disaster recovery implementation for Affin Bank
 
 ---
 
@@ -55,7 +58,7 @@
   
 [![CV](https://img.shields.io/badge/CV-Download-d4668a?style=plastic&logo=adobeacrobatreader&logoColor=white)](https://github.com/myrrym/myrrym/raw/main/Miriam_Ho_Ai_Ning_CV_2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miriam--ho--ai--ning-d4668a?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-ho-ai-ning-67b3711b1/)
-[![sanctuary](https://img.shields.io/badge/sanctuary-getsanctuary.app-2d9e4f?style=plastic)](https://getsanctuary.app)
+[![realty check](https://img.shields.io/badge/realty_check-realtycheck.my-d4668a?style=plastic)](https://realtycheck.my)
 [![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=plastic&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c53a20dd-a0e4-45d3-8d8f-03b3a647fb1c)
 
 </div>
