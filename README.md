@@ -10,9 +10,9 @@
 
 ### what i'm working on
 
-**[realty check](https://realtycheck.my)** - deal transparency for Malaysian property. turns any listing into a trilingual (EN/BM/中文) client-ready pricing report in about a second, from 490,000+ registered NAPIC transactions across all 16 states. a deterministic comp engine does the numbers; the LLM only phrases them. won the IQI AI Hackathon 2026, public launch 14 days later. FastAPI, solo-built and operated alongside my day job.
+**[realty check](https://realtycheck.my)** - deal transparency for Malaysian property. turns any listing into a trilingual (EN/BM/中文) client-ready pricing report in about a second, from 490,000+ registered NAPIC transactions across all 16 states. a deterministic comp engine does the numbers; the LLM only phrases them. won an AI hackathon in 2026, public launch 14 days later. FastAPI, solo-built and operated alongside my day job.
 
-**property-ai** @ [IQI Global](https://iqiglobal.com) — a cross-platform AI microservice I own end-to-end, serving 7M+ property listings across 111 countries. Includes a RAG chatbot built with hand-rolled vector similarity in PHP (no managed AI infra), a self-hosted geospatial routing engine on AWS, and multi-domain API integrations.
+**property-ai** — a cross-platform AI microservice I own end-to-end, serving 7M+ property listings across 111 countries. Includes a RAG chatbot built with hand-rolled vector similarity in PHP (no managed AI infra), a self-hosted geospatial routing engine on AWS, and multi-domain API integrations.
 
 ---
 
@@ -41,8 +41,8 @@
 
 ### a few things i've shipped
 
-- 🌸 realty check - deal-transparency platform over 490,000+ NAPIC transactions, winner of the IQI AI Hackathon 2026
-- 🌸 AI microservice handling millions of property searches across IQI Global & Juwai.asia
+- 🌸 realty check - deal-transparency platform over 490,000+ NAPIC transactions, AI hackathon winner (2026)
+- 🌸 AI microservice handling millions of property searches across multiple property portals
 - 🌸 self-hosted isochrone engine for commute-time property search
 - 🌸 AI code review service on the Claude API, rolling out across the org's repos against a measured baseline
 - 🌸 [8-station ESP32 token-counting installation](https://github.com/myrrym/esp32-token-counter), four days unattended at a live brand event
