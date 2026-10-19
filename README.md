@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=d4668a&center=true&vCenter=true&width=600&lines=hey%2C+i'm+miriam+%F0%9F%8C%B8;senior+software+engineer+%C2%B7+malaysia;building+AI+systems+that+ship;sole+owner+of+property-ai+%C2%B7+7M%2B+listings;founder+of+realty+check+%C2%B7+realtycheck.my" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=d4668a&center=true&vCenter=true&width=600&lines=hey%2C+i'm+miriam+%F0%9F%8C%B8;senior+software+engineer+%C2%B7+malaysia;building+AI+systems+that+ship;built+property-ai+%C2%B7+7M%2B+listings" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,11 +8,9 @@
 
 ---
 
-### what i'm working on
+### recent work
 
-**[realty check](https://realtycheck.my)** - deal transparency for Malaysian property. turns any listing into a trilingual (EN/BM/中文) client-ready pricing report in about a second, from 490,000+ registered NAPIC transactions across all 16 states. a deterministic comp engine does the numbers; the LLM only phrases them. won an AI hackathon in 2026, public launch 14 days later. FastAPI, solo-built and operated alongside my day job.
-
-**property-ai** — a cross-platform AI microservice I own end-to-end, serving 7M+ property listings across 111 countries. Includes a RAG chatbot built with hand-rolled vector similarity in PHP (no managed AI infra), a self-hosted geospatial routing engine on AWS, and multi-domain API integrations.
+**property-ai** — a cross-platform AI microservice I owned end-to-end, serving 7M+ property listings across 111 countries. Included a RAG chatbot built with hand-rolled vector similarity in PHP (no managed AI infra), a self-hosted geospatial routing engine on AWS, and multi-domain API integrations.
 
 ---
 
@@ -41,7 +39,6 @@
 
 ### a few things i've shipped
 
-- 🌸 realty check - deal-transparency platform over 490,000+ NAPIC transactions, AI hackathon winner (2026)
 - 🌸 AI microservice handling millions of property searches across multiple property portals
 - 🌸 self-hosted isochrone engine for commute-time property search
 - 🌸 AI code review service on the Claude API, rolling out across the org's repos against a measured baseline
@@ -58,7 +55,6 @@
   
 [![CV](https://img.shields.io/badge/CV-Download-d4668a?style=plastic&logo=adobeacrobatreader&logoColor=white)](https://github.com/myrrym/myrrym/raw/main/Miriam_Ho_Ai_Ning_CV_2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miriam--ho--ai--ning-d4668a?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miriam-ho-ai-ning-67b3711b1/)
-[![realty check](https://img.shields.io/badge/realty_check-realtycheck.my-d4668a?style=plastic)](https://realtycheck.my)
 [![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=plastic&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/c53a20dd-a0e4-45d3-8d8f-03b3a647fb1c)
 
 </div>
@@ -67,6 +63,6 @@
 
 <div align="center">
   <img src="https://em-content.zobj.net/source/microsoft/378/cherry-blossom_1f338.png" width="16" />
-  <sub> open to senior remote roles · english · mandarin · malay · cantonese </sub>
+  <sub> english · mandarin · malay · cantonese </sub>
   <img src="https://em-content.zobj.net/source/microsoft/378/cherry-blossom_1f338.png" width="16" />
 </div>
