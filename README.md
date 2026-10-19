@@ -41,7 +41,7 @@
 
 - 🌸 AI microservice handling millions of property searches across multiple property portals
 - 🌸 self-hosted isochrone engine for commute-time property search
-- 🌸 AI code review service on the Claude API, rolling out across the org's repos against a measured baseline
+- 🌸 AI code review service on the Claude API, rolled out across the org's repos against a measured baseline
 - 🌸 [8-station ESP32 token-counting installation](https://github.com/myrrym/esp32-token-counter), four days unattended at a live brand event
 - 🌸 sanctuary - AI journaling app shipped to closed beta on Google Play
 - 🌸 real-time streaming platforms for Maxis, Digi, TM One
