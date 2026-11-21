@@ -44,8 +44,8 @@
 - 🌸 AI code review service on the Claude API, rolled out across the org's repos against a measured baseline
 - 🌸 [8-station ESP32 token-counting installation](https://github.com/myrrym/esp32-token-counter), four days unattended at a live brand event
 - 🌸 sanctuary - AI journaling app shipped to closed beta on Google Play
-- 🌸 real-time streaming platforms for Maxis, Digi, TM One
-- 🌸 disaster recovery implementation for Affin Bank
+- 🌸 real-time streaming platforms for major Malaysian telcos
+- 🌸 disaster recovery implementation for a Malaysian bank
 
 ---
 
